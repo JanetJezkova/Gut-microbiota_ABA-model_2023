@@ -1,0 +1,7 @@
+Reads for this study are avaiable at https://www.ebi.ac.uk/ena/browser/home under the accession number: PRJEB70936.
+
+Samples metadata:
+SATB (mice treated with ATB) or SH2O (mice gavaged with water)
+numbers after SATB/SH20 corespond to individual mouse and sampling time (for example: SATB11 - first mouse, first stool sampling etc.)
+
+mouse groups: 1 - control mouse, 2 - mouse with restriction with wheel, 3 - mouse wo restriction and wheel, 4 - mouse with restriction and wheel, 5 - additional mouse (only 2 samplings)
